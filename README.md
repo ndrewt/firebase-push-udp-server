@@ -10,7 +10,7 @@
 
 | Mode | Environment variable        | Description                                                                                 |
 | ---- | --------------------------- | ------------------------------------------------------------------------------------------- |
-| all  | INIT_SERVICE_PORT           | Port for run node app (default 3000)                                                        |
+| all  | INIT_SERVICE_PORT           | Port for run node app (default 41234)                                                       |
 | all  | TYPE                        | Type of Firebase service account                                                            |
 | all  | PROJECT_ID                  | Project ID of the Firebase project                                                          |
 | all  | PRIVATE_KEY_ID              | Private key ID of the Firebase service account                                              |
